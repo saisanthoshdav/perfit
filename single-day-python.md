@@ -24,7 +24,7 @@
     count_words(“random words paper place words butterfly compiler then there words”)
     ```
     Output here would be-
-    Words
+    words
     
     Hints
     - https://stackoverflow.com/questions/743806/how-to-split-a-string-into-a-list
