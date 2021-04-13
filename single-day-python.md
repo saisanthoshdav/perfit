@@ -11,7 +11,7 @@
    - Program must take three numbers as command line arguments.
    - Program must handle all edge cases like – user might not give three numbers, they may not be numbers etc. Print appropriate error messages in all those cases.
 2. Given a number, find where in the Fibonacci series it occurs [THIS IS NOT GENERATE NTH NUMBER IN FIBONACCI SERIES, READ THE QUESTION PROPERLY]
-   - For eg, the series is 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 45 …
+   - For eg, the series is 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 …
    - If user enters 21, output should be 9 since it is the 9th in the sequence
    - If user enters 45, output should be 11
    - If number is not in the sequence, it has to print -1
