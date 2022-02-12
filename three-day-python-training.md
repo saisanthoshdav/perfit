@@ -2,7 +2,7 @@ PLEASE READ
 ---------
 
 - Read the requirements carefully, figure out how to solve the problem before starting to write any code.
-- Any input required needs to given as command line argument. DO NOT ask user for input.
+- !!! **Any input required needs to given as command line argument. DO NOT ask user for input.** !!!
   - https://www.tutorialspoint.com/python/python_command_line_arguments.htm
 - Error handling / edge case handling
   - Always check if user has provided required number of arguments in command line and in correct format - https://www.geeksforgeeks.org/python-check-for-float-string/
